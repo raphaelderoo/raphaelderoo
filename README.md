@@ -14,7 +14,7 @@
 ### Plateforme web pédagogique
 Application pour le lycée Pierre de Coubertin : cours, exercices, QCM, examens, suivi des élèves, messagerie et import CSV, avec des espaces séparés pour les professeurs et les élèves.
 
-`Vue.js 3` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` · [Voir le code](https://github.com/raphaelderoo/site_hermilier)
+`Vue.js 3` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` · Code privé
 
 ### NaturSQL
 Chatbot qui traduit une question en français en requête SQL, l'exécute en lecture seule et présente les résultats. Le projet compte plus de 200 tests automatisés.
