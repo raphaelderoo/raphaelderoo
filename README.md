@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2b3137?style=flat-square&logo=githubpages&logoColor=white)](https://raphaelderoo.github.io/)
 [![CV](https://img.shields.io/badge/Voir_mon_CV-2b3137?style=flat-square&logo=readthedocs&logoColor=white)](https://raphaelderoo.github.io/cv.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b3137?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelderoo-11b941341/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b3137?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-deroo-11b941341/)
 
 ## Projets
 
